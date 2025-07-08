@@ -1,5 +1,5 @@
 pkgname=cargo-workflow-test
-pkgver=0.0.1
+pkgver=0.0.2
 pkgrel=1
 pkgdesc="literally does nothing but print the vesrion"
 arch=('x86_64' 'aarch64')
