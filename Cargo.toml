@@ -1,0 +1,10 @@
+[package]
+name = "cargo-workflow-test"
+version = "0.0.0"
+description = "literally does nothing but print the vesrion"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/fibsussy/cargo-workflow-test"
+repository = "https://github.com/fibsussy/cargo-workflow-test"
+
+[dependencies]
